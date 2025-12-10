@@ -7,7 +7,7 @@ Um portfólio desenvolvido para apresentar projetos, aprendizados e a evolução
 
 Este portfólio tem como propósito:
 
-- **Demonstrtrar evolução técnica** através de projetos reais em HTML, CSS e JavaScript Puro e outras técnologias.  
+- **Demonstrar evolução técnica** através de projetos reais em HTML, CSS e JavaScript Puro e outras técnologias.  
 - **Organizar os aprendizados** adquiridos ao longo dos estudos em desenvolvimentos.  
 - **Criar presença online profissional**, funcionando como vitrine para recrutadores, colegas e colaboradores.  
 - **Experimentar boas práticas** de versionamento, automação com GitHub Actions e publicação com GitHub Pages.  
